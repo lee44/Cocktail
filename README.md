@@ -1,11 +1,3 @@
-#### React Router Fix
+# Cocktail Search
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+A ReactJS app that allows a user to search for cocktails and provides information about that cocktail.
